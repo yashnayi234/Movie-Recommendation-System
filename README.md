@@ -36,8 +36,6 @@ The dataset includes information on:
 ```
 Movie-Recommendation/
 ├── Movie Recommendation.ipynb   # Jupyter notebook containing the code
-├── data/                        # Directory for storing dataset files
-├── images/                      # Directory for storing plots and visualizations
 └── README.md                    # Project documentation
 ```
 
@@ -74,6 +72,3 @@ The analysis shows insights into the most popular movies by ratings and provides
 
 ## 🤝 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request.
-
-## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
